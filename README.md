@@ -1,4 +1,5 @@
 # The_essence_of_spring_boot_CH2
+https://www.notion.so/4c4b0a4e389e4ec9bc9fc79aa9a48709?pvs=4
 Spring Boot의 정석 Ch1&amp;Ch2
 <img width="771" alt="스크린샷 2023-06-27 오전 10 33 08" src="https://github.com/jinyongyun/The_essence_of_spring_boot_CH2/assets/102133961/3d2b3a64-a69d-4f8f-97ff-5e17445c7b97">
 <img width="960" alt="스크린샷 2023-06-27 오전 10 38 59" src="https://github.com/jinyongyun/The_essence_of_spring_boot_CH2/assets/102133961/30ab3ade-46e2-40b8-983a-046525f59f4e">
